@@ -1,0 +1,15 @@
+package Retaframeork.Retaframeork;
+
+public class CompareToAndEqual {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String s3="ratan";
+		
+		String s2="anu";
+		System.out.println(s2.equals(s3));
+
+	}
+
+}
